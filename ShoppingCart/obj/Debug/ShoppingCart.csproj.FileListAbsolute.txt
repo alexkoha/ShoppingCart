@@ -1,0 +1,24 @@
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.dll.config
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.dll
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.pdb
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.dll
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csproj.ResolveComReference.cache
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart\ShoppingCart\bin\Debug\HtmlAgilityPack.dll
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart\ShoppingCart\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart\ShoppingCart\bin\Debug\HtmlAgilityPack.xml
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\bin\Debug\ShoppingCart.dll.config
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\bin\Debug\ShoppingCart.dll
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\bin\Debug\ShoppingCart.pdb
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\bin\Debug\EntityFramework.BulkInsert.dll
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\bin\Debug\EntityFramework.dll
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\bin\Debug\HtmlAgilityPack.dll
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\bin\Debug\EntityFramework.xml
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\bin\Debug\EntityFramework.BulkInsert.pdb
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\bin\Debug\HtmlAgilityPack.xml
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\obj\Debug\ShoppingCart.csproj.ResolveComReference.cache
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\obj\Debug\ShoppingCart.dll
+C:\Users\kohat\Desktop\CodeValue\final\ShoppingCart - Copy (15)\ShoppingCart\obj\Debug\ShoppingCart.pdb
